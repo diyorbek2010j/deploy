@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: blue;
+    color: aliceblue;
+    text-align: center;
+}
+.h1{
+    font-size: 60px;
+    padding-top: 100px;
+}
